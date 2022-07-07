@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: url('https://i.pinimg.com/736x/05/95/a0/0595a0db6cf586f9d86018688b3dc42d.jpg')
+}
+.container_1{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+.input{
+    border: none;
+    padding: 5px;
+    border-radius: 25px 0 0 25px;
+}
+.container{
+    background: url("https://funart.pro/uploads/posts/2021-04/1618573536_41-funart_pro-p-oboi-fon-oblaka-multyashnie-43.png");
+    padding: 10px;
+    border-radius: 25px ;
+}
+.btn1{
+    border: none;
+    background: aqua;
+    padding: 5px;
+    border-radius: 0 25px 25px 0;
+}
+.form{
+    margin-bottom: 10px;
+}
+.temp{
+    color: white;
+    margin-bottom: 5px;
+}
+.city{
+    color: white;
+    margin-bottom: 5px;
+}
+.sunrise{
+    color: white;
+    margin-bottom: 5px;
+}
+.sunset{
+    color: white;
+    margin-bottom: 5px;
+}
+.feels-like{
+    color: white;
+    margin-bottom: 5px;
+}
+.wind{
+    color: white;
+    margin-bottom: 5px;
+}
+.humidity{
+    color: white;
+    margin-bottom: 5px;
+}
+.time{
+    color: white;
+    margin-bottom: 5px;
+}
+
+
+
+
